@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EVA2_3Preferences_3</string>
+    <string-array name="entradas">
+        <item>Tacos</item>
+        <item>Tamales</item>
+        <item>Tortas</item>
+        <item>Burritos</item>
+        <item>Hamburgesas</item>
+    </string-array>
+    <string-array name="salidas">
+        <item>Tacos</item>
+        <item>Tamales</item>
+        <item>Tortas</item>
+        <item>Burritos</item>
+        <item>Hamburgesas</item>
+    </string-array>
+</resources>
